@@ -1,0 +1,16 @@
+{
+    "intents": [
+        "gate",
+        "baggage_claim",
+        "check_in",
+        "security",
+        "lounge",
+        "transport",
+        "information_desk",
+        "flight_delay",
+        "restaurant",
+        "lost_and_found",
+        "accessibility",
+        "opening_hours"
+    ]
+}

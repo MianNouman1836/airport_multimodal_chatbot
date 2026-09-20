@@ -1,0 +1,6 @@
+Scenario,Modalities,Top-1 Record,Score,Agreement
+Image Only,,KB020,0.0000,True
+Text Only,text,KB007,1.0000,True
+Voice Only,,KB020,0.0000,True
+Image + Text,text,KB008,1.0000,True
+Image + Voice,,KB020,0.0000,True

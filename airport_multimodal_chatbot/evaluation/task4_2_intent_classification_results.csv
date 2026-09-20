@@ -1,0 +1,105 @@
+query_id,modality,reference_text,raw_text,true_intent,predicted_intent,intent_similarity,correct,uncertain
+Q001,typed,Where is gate B12?,Where is gate B12?,gate,gate,0.5100886821746826,True,False
+Q002,typed,How can I get to gate A7?,How can I get to gate A7?,gate,gate,0.50821453332901,True,False
+Q003,typed,Which terminal has gate C15?,Which terminal has gate C15?,gate,gate,0.4850001931190491,True,False
+Q004,typed,Please tell me the direction to gate B4.,Please tell me the direction to gate B4.,gate,gate,0.5459473133087158,True,False
+Q005,typed,Where can I find boarding gate A12?,Where can I find boarding gate A12?,gate,gate,0.6202337741851807,True,False
+Q006,typed,Is gate C8 on the upper floor?,Is gate C8 on the upper floor?,gate,gate,0.45002931356430054,True,False
+Q007,typed,How do I reach gate D10?,How do I reach gate D10?,gate,gate,0.4992685914039612,True,False
+Q008,typed,Where is my departure gate B6?,Where is my departure gate B6?,gate,gate,0.6624007821083069,True,False
+Q009,typed,Can you help me find gate A3?,Can you help me find gate A3?,gate,gate,0.5374000072479248,True,False
+Q010,typed,How do I get to baggage claim?,How do I get to baggage claim?,baggage_claim,baggage_claim,0.5708637237548828,True,False
+Q011,typed,Where can I collect my luggage?,Where can I collect my luggage?,baggage_claim,baggage_claim,0.6210556626319885,True,False
+Q012,typed,Which carousel is for the flight from London?,Which carousel is for the flight from London?,baggage_claim,baggage_claim,0.4155609607696533,True,False
+Q013,typed,Is baggage claim on the ground floor?,Is baggage claim on the ground floor?,baggage_claim,intent_uncertain,0.33017605543136597,False,True
+Q014,typed,Where is the oversized baggage area?,Where is the oversized baggage area?,baggage_claim,intent_uncertain,0.39574700593948364,False,True
+Q015,typed,How do I find baggage belt 4?,How do I find baggage belt 4?,baggage_claim,baggage_claim,0.49223199486732483,True,False
+Q016,typed,Can you point me to the luggage collection zone?,Can you point me to the luggage collection zone?,baggage_claim,baggage_claim,0.4942783713340759,True,False
+Q017,typed,Where do I pick up my bags?,Where do I pick up my bags?,baggage_claim,baggage_claim,0.5270142555236816,True,False
+Q018,typed,I need to find the baggage hall.,I need to find the baggage hall.,baggage_claim,baggage_claim,0.5344186425209045,True,False
+Q019,typed,Where is the check in desk for international flights?,Where is the check in desk for international flights?,check_in,check_in,0.6095746159553528,True,False
+Q020,typed,How do I find the Lufthansa check-in?,How do I find the Lufthansa check-in?,check_in,intent_uncertain,0.37576407194137573,False,True
+Q021,typed,Is there a self-service check-in kiosk here?,Is there a self-service check-in kiosk here?,check_in,intent_uncertain,0.3654435873031616,False,True
+Q022,typed,Where do I drop my bags for check-in?,Where do I drop my bags for check-in?,check_in,check_in,0.5497528910636902,True,False
+Q023,typed,Which counter is for Emirates check-in?,Which counter is for Emirates check-in?,check_in,check_in,0.4444378912448883,True,False
+Q024,typed,Can you direct me to the check-in area?,Can you direct me to the check-in area?,check_in,intent_uncertain,0.3876045346260071,False,True
+Q025,typed,Are the check-in desks open for the 14:30 flight?,Are the check-in desks open for the 14:30 flight?,check_in,check_in,0.4618418216705322,True,False
+Q026,typed,Where is the first class check-in?,Where is the first class check-in?,check_in,intent_uncertain,0.2995339035987854,False,True
+Q027,typed,I need to check in my luggage.,I need to check in my luggage.,check_in,baggage_claim,0.5386536717414856,False,False
+Q028,typed,Is there a lounge near terminal 2?,Is there a lounge near terminal 2?,lounge,lounge,0.5845098495483398,True,False
+Q029,typed,Where is the British Airways lounge?,Where is the British Airways lounge?,lounge,lounge,0.6190968751907349,True,False
+Q030,typed,How do I get to the VIP lounge?,How do I get to the VIP lounge?,lounge,lounge,0.7305771112442017,True,False
+Q031,typed,Is the business lounge open right now?,Is the business lounge open right now?,lounge,opening_hours,0.5112724900245667,False,False
+Q032,typed,Where can I find a priority pass lounge?,Where can I find a priority pass lounge?,lounge,lounge,0.5332720875740051,True,False
+Q033,typed,Can you direct me to the premium lounge?,Can you direct me to the premium lounge?,lounge,lounge,0.5859229564666748,True,False
+Q034,typed,Which floor is the executive lounge on?,Which floor is the executive lounge on?,lounge,lounge,0.5422630906105042,True,False
+Q035,typed,Are there any lounges in concourse C?,Are there any lounges in concourse C?,lounge,lounge,0.6569651961326599,True,False
+Q036,typed,How much does it cost to enter the lounge?,How much does it cost to enter the lounge?,lounge,lounge,0.549689531326294,True,False
+Q037,typed,Where can I find airport transport?,Where can I find airport transport?,transport,transport,0.6851274967193604,True,False
+Q038,typed,How do I get to the taxi rank?,How do I get to the taxi rank?,transport,transport,0.4547821581363678,True,False
+Q039,typed,Is there a train station connection here?,Is there a train station connection here?,transport,transport,0.41045331954956055,True,False
+Q040,typed,Where does the airport shuttle bus leave from?,Where does the airport shuttle bus leave from?,transport,gate,0.48868271708488464,False,False
+Q041,typed,Can you direct me to the car rental desks?,Can you direct me to the car rental desks?,transport,transport,0.41579994559288025,True,False
+Q042,typed,Where is the pickup zone for Uber?,Where is the pickup zone for Uber?,transport,intent_uncertain,0.3857678174972534,False,True
+Q043,typed,How do I reach the subway station?,How do I reach the subway station?,transport,transport,0.42562219500541687,True,False
+Q044,typed,Is the bus stop outside terminal 1?,Is the bus stop outside terminal 1?,transport,intent_uncertain,0.33186712861061096,False,True
+Q045,typed,Where can I catch a taxi?,Where can I catch a taxi?,transport,transport,0.5949191451072693,True,False
+Q046,typed,Where is the nearest information desk?,Where is the nearest information desk?,information_desk,information_desk,0.5286076068878174,True,False
+Q047,typed,"I need help, where is the customer service counter?","I need help, where is the customer service counter?",information_desk,opening_hours,0.42454472184181213,False,False
+Q048,typed,Is there a help desk nearby?,Is there a help desk nearby?,information_desk,accessibility,0.4649002254009247,False,False
+Q049,typed,Where can I ask a question about my flight?,Where can I ask a question about my flight?,information_desk,flight_delay,0.585573673248291,False,False
+Q050,typed,Can you show me to the tourist information center?,Can you show me to the tourist information center?,information_desk,intent_uncertain,0.336813747882843,False,True
+Q051,typed,Where is the airport assistance desk?,Where is the airport assistance desk?,information_desk,information_desk,0.727393627166748,True,False
+Q052,typed,How do I find the lost and found office?,How do I find the lost and found office?,information_desk,lost_and_found,0.7315269708633423,False,False
+Q053,typed,Is there a staff member I can speak to?,Is there a staff member I can speak to?,information_desk,intent_uncertain,0.3154710829257965,False,True
+Q054,typed,Where is the central information point?,Where is the central information point?,information_desk,intent_uncertain,0.30224308371543884,False,True
+Q055,typed,Is my flight delayed?,Is my flight delayed?,flight_delay,flight_delay,0.6558738350868225,True,False
+Q056,typed,Has the 08:30 flight to Berlin been delayed?,Has the 08:30 flight to Berlin been delayed?,flight_delay,flight_delay,0.47241637110710144,True,False
+Q057,typed,When is the new departure time for my delayed flight?,When is the new departure time for my delayed flight?,flight_delay,flight_delay,0.7132078409194946,True,False
+Q058,typed,Why is my flight delayed?,Why is my flight delayed?,flight_delay,flight_delay,0.5946665406227112,True,False
+Q059,typed,Can you check if my flight is on time?,Can you check if my flight is on time?,flight_delay,flight_delay,0.6794141530990601,True,False
+Q060,typed,How long is the delay for flight BA123?,How long is the delay for flight BA123?,flight_delay,flight_delay,0.4983062744140625,True,False
+Q061,typed,Has the boarding time changed due to the delay?,Has the boarding time changed due to the delay?,flight_delay,flight_delay,0.5067349672317505,True,False
+Q062,typed,Where can I see the delayed flight board?,Where can I see the delayed flight board?,flight_delay,flight_delay,0.5376169681549072,True,False
+Q063,typed,Is the flight to Paris cancelled or delayed?,Is the flight to Paris cancelled or delayed?,flight_delay,flight_delay,0.5431288480758667,True,False
+Q064,typed,Where is the security checkpoint?,Where is the security checkpoint?,security,security,0.4154713749885559,True,False
+Q065,typed,How long is the queue for security?,How long is the queue for security?,security,intent_uncertain,0.39384591579437256,False,True
+Q066,typed,Is there a fast track security lane?,Is there a fast track security lane?,security,intent_uncertain,0.25393444299697876,False,True
+Q067,typed,Where do I go for passport control?,Where do I go for passport control?,security,security,0.5932657718658447,True,False
+Q068,typed,Which way to the domestic security screening?,Which way to the domestic security screening?,security,security,0.511093020439148,True,False
+Q069,typed,Do I need to take my laptop out at security?,Do I need to take my laptop out at security?,security,intent_uncertain,0.1739160269498825,False,True
+Q070,typed,Where is the security control for terminal 2?,Where is the security control for terminal 2?,security,intent_uncertain,0.34923020005226135,False,True
+Q071,typed,Can you direct me to customs?,Can you direct me to customs?,security,intent_uncertain,0.3728969395160675,False,True
+Q072,typed,How do I reach the security gates?,How do I reach the security gates?,security,gate,0.47788363695144653,False,False
+Q002,typed,How can I get to gate A7?,How can I get to gate A7?,gate,gate,0.50821453332901,True,False
+Q003,typed,which terminal has gate C15.,which terminal has gate C15.,gate,gate,0.4850001931190491,True,False
+Q007,typed,How do I reach gate D10?,How do I reach gate D10?,gate,gate,0.4992685914039612,True,False
+Q008,typed,Where is my departure gate B6?,Where is my departure gate B6?,gate,gate,0.6624007821083069,True,False
+Q010,typed,How do I get to baggage claim?,How do I get to baggage claim?,baggage_claim,baggage_claim,0.5708637237548828,True,False
+Q011,typed,Where can I collect my luggage?,Where can I collect my luggage?,baggage_claim,baggage_claim,0.6210556626319885,True,False
+Q015,typed,How do I find baggage belt 4?,How do I find baggage belt 4?,baggage_claim,baggage_claim,0.49223199486732483,True,False
+Q017,typed,Where do I pick up my bag?,Where do I pick up my bag?,baggage_claim,baggage_claim,0.4723283648490906,True,False
+Q019,typed,Where is the check-in desk for international flight?,Where is the check-in desk for international flight?,check_in,check_in,0.5389168858528137,True,False
+Q020,typed,How do I find the Lufthansa check-in?,How do I find the Lufthansa check-in?,check_in,intent_uncertain,0.37576407194137573,False,True
+Q022,typed,Where do I drop my bags for check-in?,Where do I drop my bags for check-in?,check_in,check_in,0.5497528910636902,True,False
+Q024,typed,Can you direct me to the check in area?,Can you direct me to the check in area?,check_in,check_in,0.4274033308029175,True,False
+Q030,typed,How do I get to the VIP lounge?,How do I get to the VIP lounge?,lounge,lounge,0.7305771112442017,True,False
+Q033,typed,Can you direct me to the premium lounge?,Can you direct me to the premium lounge?,lounge,lounge,0.5859229564666748,True,False
+Q035,typed,Are there any lounges in Concourse C?,Are there any lounges in Concourse C?,lounge,lounge,0.6569651961326599,True,False
+Q036,typed,How much does it cost to enter the lounge?,How much does it cost to enter the lounge?,lounge,lounge,0.549689531326294,True,False
+Q038,typed,How do I get to the taxi rank?,How do I get to the taxi rank?,transport,transport,0.4547821581363678,True,False
+Q042,typed,Where is the pickup zone for Uber?,Where is the pickup zone for Uber?,transport,intent_uncertain,0.3857678174972534,False,True
+Q044,typed,is the bus stop outside terminal one.,is the bus stop outside terminal one.,transport,intent_uncertain,0.34006795287132263,False,True
+Q045,typed,Where can I catch a taxi?,Where can I catch a taxi?,transport,transport,0.5949191451072693,True,False
+Q047,typed,I need help. Where is the customer service counter?,I need help. Where is the customer service counter?,information_desk,opening_hours,0.42454472184181213,False,False
+Q050,typed,Can you show me to the Taurus Information Center?,Can you show me to the Taurus Information Center?,information_desk,intent_uncertain,0.21169130504131317,False,True
+Q051,typed,Where is the airport assistance desk?,Where is the airport assistance desk?,information_desk,information_desk,0.727393627166748,True,False
+Q054,typed,Where is the central information point?,Where is the central information point?,information_desk,intent_uncertain,0.30224308371543884,False,True
+Q055,typed,Is my flight delayed?,Is my flight delayed?,flight_delay,flight_delay,0.6558738350868225,True,False
+Q057,typed,When is the new departure time for my delayed flight?,When is the new departure time for my delayed flight?,flight_delay,flight_delay,0.7132078409194946,True,False
+Q061,typed,has the boarding time changed due to the delay.,has the boarding time changed due to the delay.,flight_delay,flight_delay,0.5067349672317505,True,False
+Q063,typed,is the flight to Paris cancelled or delayed.,is the flight to Paris cancelled or delayed.,flight_delay,flight_delay,0.5431288480758667,True,False
+Q064,typed,Where is the security checkpoint?,Where is the security checkpoint?,security,security,0.4154713749885559,True,False
+Q066,typed,Is there a fast track security lane?,Is there a fast track security lane?,security,intent_uncertain,0.25393444299697876,False,True
+Q069,typed,Do I need to take my laptop out at security?,Do I need to take my laptop out at security?,security,intent_uncertain,0.1739160269498825,False,True
+Q070,typed,Where is the security control for Terminal 2?,Where is the security control for Terminal 2?,security,intent_uncertain,0.34923020005226135,False,True

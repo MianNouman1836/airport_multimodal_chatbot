@@ -1,0 +1,11 @@
+raw_text,gate_number,terminal_number,service_name,location,airline,time
+Where is gate B12?,B12,,,,,
+How can I get to gate A7?,A7,,,,,
+Which terminal has gate C15?,C15,,,,,
+Please tell me the direction to gate B4.,B4,,,,,
+Where can I find boarding gate A12?,A12,,,,,
+Is gate C8 on the upper floor?,C8,,,,,
+How do I reach gate D10?,D10,,,,,
+Where is my departure gate B6?,B6,,,,,
+Can you help me find gate A3?,A3,,,,,
+How do I get to baggage claim?,,,Baggage Claim,,,

@@ -1,0 +1,73 @@
+query_id,query,intent,source,tokens,token_count,clean_tokens,gate_number,terminal_number,time,airline,service_name,location,has_audio,audio_file
+Q001,Where is gate B12?,gate,synthetic,"['where', 'is', 'gate', 'b12', '?']",5,"['gate', 'b12']",B12,,,,,,no,
+Q002,How can I get to gate A7?,gate,synthetic,"['how', 'can', 'i', 'get', 'to', 'gate', 'a7', '?']",8,"['get', 'gate', 'a7']",A7,,,,,,yes,gate_Q002.wav
+Q003,Which terminal has gate C15?,gate,synthetic,"['which', 'terminal', 'has', 'gate', 'c15', '?']",6,"['terminal', 'gate', 'c15']",C15,,,,,,yes,gate_Q003.wav
+Q004,Please tell me the direction to gate B4.,gate,synthetic,"['please', 'tell', 'me', 'the', 'direction', 'to', 'gate', 'b4', '.']",9,"['please', 'tell', 'direction', 'gate', 'b4']",B4,,,,,,no,
+Q005,Where can I find boarding gate A12?,gate,synthetic,"['where', 'can', 'i', 'find', 'boarding', 'gate', 'a12', '?']",8,"['find', 'boarding', 'gate', 'a12']",A12,,,,,,no,
+Q006,Is gate C8 on the upper floor?,gate,synthetic,"['is', 'gate', 'c8', 'on', 'the', 'upper', 'floor', '?']",8,"['gate', 'c8', 'upper', 'floor']",C8,,,,,upper floor,no,
+Q007,How do I reach gate D10?,gate,synthetic,"['how', 'do', 'i', 'reach', 'gate', 'd10', '?']",7,"['reach', 'gate', 'd10']",D10,,,,,,yes,gate_Q007.wav
+Q008,Where is my departure gate B6?,gate,synthetic,"['where', 'is', 'my', 'departure', 'gate', 'b6', '?']",7,"['departure', 'gate', 'b6']",B6,,,,,,yes,gate_Q008.wav
+Q009,Can you help me find gate A3?,gate,synthetic,"['can', 'you', 'help', 'me', 'find', 'gate', 'a3', '?']",8,"['help', 'find', 'gate', 'a3']",A3,,,,,,no,
+Q010,How do I get to baggage claim?,baggage_claim,synthetic,"['how', 'do', 'i', 'get', 'to', 'baggage', 'claim', '?']",8,"['get', 'baggage', 'claim']",,,,,baggage claim,,yes,baggage_claim_Q010.wav
+Q011,Where can I collect my luggage?,baggage_claim,synthetic,"['where', 'can', 'i', 'collect', 'my', 'luggage', '?']",7,"['collect', 'luggage']",,,,,,,yes,baggage_claim_Q011.wav
+Q012,Which carousel is for the flight from London?,baggage_claim,synthetic,"['which', 'carousel', 'is', 'for', 'the', 'flight', 'from', 'london', '?']",9,"['carousel', 'flight', 'london']",,,,,,,no,
+Q013,Is baggage claim on the ground floor?,baggage_claim,synthetic,"['is', 'baggage', 'claim', 'on', 'the', 'ground', 'floor', '?']",8,"['baggage', 'claim', 'ground', 'floor']",,,,,baggage claim,ground floor,no,
+Q014,Where is the oversized baggage area?,baggage_claim,synthetic,"['where', 'is', 'the', 'oversized', 'baggage', 'area', '?']",7,"['oversized', 'baggage', 'area']",,,,,,oversized baggage,no,
+Q015,How do I find baggage belt 4?,baggage_claim,synthetic,"['how', 'do', 'i', 'find', 'baggage', 'belt', '4', '?']",8,"['find', 'baggage', 'belt', '4']",,,,,,,yes,baggage_claim_Q015.wav
+Q016,Can you point me to the luggage collection zone?,baggage_claim,synthetic,"['can', 'you', 'point', 'me', 'to', 'the', 'luggage', 'collection', 'zone', '?']",10,"['point', 'luggage', 'collection', 'zone']",,,,,,,no,
+Q017,Where do I pick up my bags?,baggage_claim,synthetic,"['where', 'do', 'i', 'pick', 'up', 'my', 'bags', '?']",8,"['pick', 'bags']",,,,,,,yes,baggage_claim_Q017.wav
+Q018,I need to find the baggage hall.,baggage_claim,synthetic,"['i', 'need', 'to', 'find', 'the', 'baggage', 'hall', '.']",8,"['need', 'find', 'baggage', 'hall']",,,,,,,no,
+Q019,Where is the check in desk for international flights?,check_in,synthetic,"['where', 'is', 'the', 'check', 'in', 'desk', 'for', 'international', 'flights', '?']",10,"['check', 'desk', 'international', 'flights']",,,,,,,yes,check_in_Q019.wav
+Q020,How do I find the Lufthansa check-in?,check_in,synthetic,"['how', 'do', 'i', 'find', 'the', 'lufthansa', 'check-in', '?']",8,"['find', 'lufthansa', 'check-in']",,,,LUFTHANSA,check-in,,yes,check_in_Q020.wav
+Q021,Is there a self-service check-in kiosk here?,check_in,synthetic,"['is', 'there', 'a', 'self-service', 'check-in', 'kiosk', 'here', '?']",8,"['self-service', 'check-in', 'kiosk']",,,,,check-in,,no,
+Q022,Where do I drop my bags for check-in?,check_in,synthetic,"['where', 'do', 'i', 'drop', 'my', 'bags', 'for', 'check-in', '?']",9,"['drop', 'bags', 'check-in']",,,,,check-in,,yes,check_in_Q022.wav
+Q023,Which counter is for Emirates check-in?,check_in,synthetic,"['which', 'counter', 'is', 'for', 'emirates', 'check-in', '?']",7,"['counter', 'emirates', 'check-in']",,,,EMIRATES,check-in,,no,
+Q024,Can you direct me to the check-in area?,check_in,synthetic,"['can', 'you', 'direct', 'me', 'to', 'the', 'check-in', 'area', '?']",9,"['direct', 'check-in', 'area']",,,,,check-in,,yes,check_in_Q024.wav
+Q025,Are the check-in desks open for the 14:30 flight?,check_in,synthetic,"['are', 'the', 'check-in', 'desks', 'open', 'for', 'the', '14:30', 'flight', '?']",10,"['check-in', 'desks', 'open', '14:30', 'flight']",,,14:30,,check-in,,no,
+Q026,Where is the first class check-in?,check_in,synthetic,"['where', 'is', 'the', 'first', 'class', 'check-in', '?']",7,"['first', 'class', 'check-in']",,,,,check-in,first class,no,
+Q027,I need to check in my luggage.,check_in,synthetic,"['i', 'need', 'to', 'check', 'in', 'my', 'luggage', '.']",8,"['need', 'check', 'luggage']",,,,,,,no,
+Q028,Is there a lounge near terminal 2?,lounge,synthetic,"['is', 'there', 'a', 'lounge', 'near', 'terminal', '2', '?']",8,"['lounge', 'near', 'terminal', '2']",,2,,,lounge,,no,
+Q029,Where is the British Airways lounge?,lounge,synthetic,"['where', 'is', 'the', 'british', 'airways', 'lounge', '?']",7,"['british', 'airways', 'lounge']",,,,BRITISH AIRWAYS,lounge,,no,
+Q030,How do I get to the VIP lounge?,lounge,synthetic,"['how', 'do', 'i', 'get', 'to', 'the', 'vip', 'lounge', '?']",9,"['get', 'vip', 'lounge']",,,,,lounge,vip,yes,lounge_Q030.wav
+Q031,Is the business lounge open right now?,lounge,synthetic,"['is', 'the', 'business', 'lounge', 'open', 'right', 'now', '?']",8,"['business', 'lounge', 'open', 'right']",,,,,lounge,business,no,
+Q032,Where can I find a priority pass lounge?,lounge,synthetic,"['where', 'can', 'i', 'find', 'a', 'priority', 'pass', 'lounge', '?']",9,"['find', 'priority', 'pass', 'lounge']",,,,,lounge,priority pass,no,
+Q033,Can you direct me to the premium lounge?,lounge,synthetic,"['can', 'you', 'direct', 'me', 'to', 'the', 'premium', 'lounge', '?']",9,"['direct', 'premium', 'lounge']",,,,,lounge,,yes,lounge_Q033.wav
+Q034,Which floor is the executive lounge on?,lounge,synthetic,"['which', 'floor', 'is', 'the', 'executive', 'lounge', 'on', '?']",8,"['floor', 'executive', 'lounge']",,,,,lounge,,no,
+Q035,Are there any lounges in concourse C?,lounge,synthetic,"['are', 'there', 'any', 'lounges', 'in', 'concourse', 'c', '?']",8,"['lounges', 'concourse', 'c']",,,,,lounge,concourse c,yes,lounge_Q035.wav
+Q036,How much does it cost to enter the lounge?,lounge,synthetic,"['how', 'much', 'does', 'it', 'cost', 'to', 'enter', 'the', 'lounge', '?']",10,"['much', 'cost', 'enter', 'lounge']",,,,,lounge,,yes,lounge_Q036.wav
+Q037,Where can I find airport transport?,transport,synthetic,"['where', 'can', 'i', 'find', 'airport', 'transport', '?']",7,"['find', 'airport', 'transport']",,,,,transport,,no,
+Q038,How do I get to the taxi rank?,transport,synthetic,"['how', 'do', 'i', 'get', 'to', 'the', 'taxi', 'rank', '?']",9,"['get', 'taxi', 'rank']",,,,,,,yes,transport_Q038.wav
+Q039,Is there a train station connection here?,transport,synthetic,"['is', 'there', 'a', 'train', 'station', 'connection', 'here', '?']",8,"['train', 'station', 'connection']",,,,,,,no,
+Q040,Where does the airport shuttle bus leave from?,transport,synthetic,"['where', 'does', 'the', 'airport', 'shuttle', 'bus', 'leave', 'from', '?']",9,"['airport', 'shuttle', 'bus', 'leave']",,,,,,,no,
+Q041,Can you direct me to the car rental desks?,transport,synthetic,"['can', 'you', 'direct', 'me', 'to', 'the', 'car', 'rental', 'desks', '?']",10,"['direct', 'car', 'rental', 'desks']",,,,,,,no,
+Q042,Where is the pickup zone for Uber?,transport,synthetic,"['where', 'is', 'the', 'pickup', 'zone', 'for', 'uber', '?']",8,"['pickup', 'zone', 'uber']",,,,,,,yes,transport_Q042.wav
+Q043,How do I reach the subway station?,transport,synthetic,"['how', 'do', 'i', 'reach', 'the', 'subway', 'station', '?']",8,"['reach', 'subway', 'station']",,,,,,,no,
+Q044,Is the bus stop outside terminal 1?,transport,synthetic,"['is', 'the', 'bus', 'stop', 'outside', 'terminal', '1', '?']",8,"['bus', 'stop', 'outside', 'terminal', '1']",,1,,,,,yes,transport_Q044.wav
+Q045,Where can I catch a taxi?,transport,synthetic,"['where', 'can', 'i', 'catch', 'a', 'taxi', '?']",7,"['catch', 'taxi']",,,,,,,yes,transport_Q045.wav
+Q046,Where is the nearest information desk?,information_desk,synthetic,"['where', 'is', 'the', 'nearest', 'information', 'desk', '?']",7,"['nearest', 'information', 'desk']",,,,,information desk,,no,
+Q047,"I need help, where is the customer service counter?",information_desk,synthetic,"['i', 'need', 'help', ',', 'where', 'is', 'the', 'customer', 'service', 'counter', '?']",11,"['need', 'help', 'customer', 'service', 'counter']",,,,,customer service,,yes,information_desk_Q047.wav
+Q048,Is there a help desk nearby?,information_desk,synthetic,"['is', 'there', 'a', 'help', 'desk', 'nearby', '?']",7,"['help', 'desk', 'nearby']",,,,,,,no,
+Q049,Where can I ask a question about my flight?,information_desk,synthetic,"['where', 'can', 'i', 'ask', 'a', 'question', 'about', 'my', 'flight', '?']",10,"['ask', 'question', 'flight']",,,,,,,no,
+Q050,Can you show me to the tourist information center?,information_desk,synthetic,"['can', 'you', 'show', 'me', 'to', 'the', 'tourist', 'information', 'center', '?']",10,"['show', 'tourist', 'information', 'center']",,,,,,,yes,information_desk_Q050.wav
+Q051,Where is the airport assistance desk?,information_desk,synthetic,"['where', 'is', 'the', 'airport', 'assistance', 'desk', '?']",7,"['airport', 'assistance', 'desk']",,,,,,,yes,information_desk_Q051.wav
+Q052,How do I find the lost and found office?,information_desk,synthetic,"['how', 'do', 'i', 'find', 'the', 'lost', 'and', 'found', 'office', '?']",10,"['find', 'lost', 'found', 'office']",,,,,lost and found,,no,
+Q053,Is there a staff member I can speak to?,information_desk,synthetic,"['is', 'there', 'a', 'staff', 'member', 'i', 'can', 'speak', 'to', '?']",10,"['staff', 'member', 'speak']",,,,,,,no,
+Q054,Where is the central information point?,information_desk,synthetic,"['where', 'is', 'the', 'central', 'information', 'point', '?']",7,"['central', 'information', 'point']",,,,,,,yes,information_desk_Q054.wav
+Q055,Is my flight delayed?,flight_delay,synthetic,"['is', 'my', 'flight', 'delayed', '?']",5,"['flight', 'delayed']",,,,,,,yes,flight_delay_Q055.wav
+Q056,Has the 08:30 flight to Berlin been delayed?,flight_delay,synthetic,"['has', 'the', '08:30', 'flight', 'to', 'berlin', 'been', 'delayed', '?']",9,"['08:30', 'flight', 'berlin', 'delayed']",,,08:30,,,,no,
+Q057,When is the new departure time for my delayed flight?,flight_delay,synthetic,"['when', 'is', 'the', 'new', 'departure', 'time', 'for', 'my', 'delayed', 'flight', '?']",11,"['new', 'departure', 'time', 'delayed', 'flight']",,,,,,,yes,flight_delay_Q057.wav
+Q058,Why is my flight delayed?,flight_delay,synthetic,"['why', 'is', 'my', 'flight', 'delayed', '?']",6,"['flight', 'delayed']",,,,,,,no,
+Q059,Can you check if my flight is on time?,flight_delay,synthetic,"['can', 'you', 'check', 'if', 'my', 'flight', 'is', 'on', 'time', '?']",10,"['check', 'flight', 'time']",,,,,,,no,
+Q060,How long is the delay for flight BA123?,flight_delay,synthetic,"['how', 'long', 'is', 'the', 'delay', 'for', 'flight', 'ba123', '?']",9,"['long', 'delay', 'flight', 'ba123']",,,,,,,no,
+Q061,Has the boarding time changed due to the delay?,flight_delay,synthetic,"['has', 'the', 'boarding', 'time', 'changed', 'due', 'to', 'the', 'delay', '?']",10,"['boarding', 'time', 'changed', 'due', 'delay']",,,,,,,yes,flight_delay_Q061.wav
+Q062,Where can I see the delayed flight board?,flight_delay,synthetic,"['where', 'can', 'i', 'see', 'the', 'delayed', 'flight', 'board', '?']",9,"['see', 'delayed', 'flight', 'board']",,,,,,,no,
+Q063,Is the flight to Paris cancelled or delayed?,flight_delay,synthetic,"['is', 'the', 'flight', 'to', 'paris', 'cancelled', 'or', 'delayed', '?']",9,"['flight', 'paris', 'cancelled', 'delayed']",,,,,,,yes,flight_delay_Q063.wav
+Q064,Where is the security checkpoint?,security,synthetic,"['where', 'is', 'the', 'security', 'checkpoint', '?']",6,"['security', 'checkpoint']",,,,,security,,yes,security_Q064.wav
+Q065,How long is the queue for security?,security,synthetic,"['how', 'long', 'is', 'the', 'queue', 'for', 'security', '?']",8,"['long', 'queue', 'security']",,,,,security,,no,
+Q066,Is there a fast track security lane?,security,synthetic,"['is', 'there', 'a', 'fast', 'track', 'security', 'lane', '?']",8,"['fast', 'track', 'security', 'lane']",,,,,security,,yes,security_Q066.wav
+Q067,Where do I go for passport control?,security,synthetic,"['where', 'do', 'i', 'go', 'for', 'passport', 'control', '?']",8,"['go', 'passport', 'control']",,,,,,,no,
+Q068,Which way to the domestic security screening?,security,synthetic,"['which', 'way', 'to', 'the', 'domestic', 'security', 'screening', '?']",8,"['way', 'domestic', 'security', 'screening']",,,,,security,,no,
+Q069,Do I need to take my laptop out at security?,security,synthetic,"['do', 'i', 'need', 'to', 'take', 'my', 'laptop', 'out', 'at', 'security', '?']",11,"['need', 'take', 'laptop', 'security']",,,,,security,,yes,security_Q069.wav
+Q070,Where is the security control for terminal 2?,security,synthetic,"['where', 'is', 'the', 'security', 'control', 'for', 'terminal', '2', '?']",9,"['security', 'control', 'terminal', '2']",,2,,,security,,yes,security_Q070.wav
+Q071,Can you direct me to customs?,security,synthetic,"['can', 'you', 'direct', 'me', 'to', 'customs', '?']",7,"['direct', 'customs']",,,,,,,no,
+Q072,How do I reach the security gates?,security,synthetic,"['how', 'do', 'i', 'reach', 'the', 'security', 'gates', '?']",8,"['reach', 'security', 'gates']",,,,,security,,no,

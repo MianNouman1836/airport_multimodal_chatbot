@@ -1,0 +1,12 @@
+{
+    "random_seed": 42,
+    "clip_model": "openai/clip-vit-base-patch32",
+    "whisper_model": "base",
+    "minilm_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "fusion_weights": {
+        "image": 0.55,
+        "text": 0.45
+    },
+    "top_k": 3,
+    "evaluation_date": "2026-09-20 12:23:50"
+}

@@ -1,0 +1,11 @@
+gradio
+torch
+transformers
+sentence-transformers
+openai-whisper
+pandas
+numpy
+Pillow
+jiwer
+matplotlib
+seaborn

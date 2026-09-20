@@ -1,0 +1,11 @@
+query,expected_category,predicted_category,similarity,top1_correct,top3_correct
+Where can I find gate B12?,gate,gate,0.5658503770828247,True,True
+I need to collect my checked bags,baggage_claim,check_in,0.3768141269683838,False,True
+Is there a place to get food in Terminal 2?,restaurant,restaurant,0.5780022144317627,True,True
+Where is the security checkpoint?,security,security,0.591864824295044,True,True
+I need to check in for British Airways,check_in,check_in,0.34856265783309937,True,True
+Is there a VIP lounge?,lounge,lounge,0.5689166784286499,True,True
+Where are the taxis?,transport,transport,0.4503065347671509,True,True
+"I lost my passport, where is the office?",lost_and_found,lost_and_found,0.5466655492782593,True,True
+I need a wheelchair,accessibility,special_assistance,0.380143404006958,False,False
+Where can I ask a customer service question?,information_desk,restaurant,0.21572503447532654,False,True

@@ -1,0 +1,73 @@
+query_id,modality,query_text,true_intent,predicted_intent,similarity_score,correct
+Q001,text,where is gate b12,gate,gate,0.4106011390686035,True
+Q002,text,how can i get to gate a7,gate,gate,0.4470568895339966,True
+Q003,text,which terminal has gate c15,gate,gate,0.3969630300998688,True
+Q004,text,please tell me the direction to gate b4,gate,gate,0.46207186579704285,True
+Q005,text,where can i find boarding gate a12,gate,gate,0.5270709991455078,True
+Q006,text,is gate c8 on the upper floor,gate,gate,0.38445430994033813,True
+Q007,text,how do i reach gate d10,gate,gate,0.41385671496391296,True
+Q008,text,where is my departure gate b6,gate,gate,0.5724791288375854,True
+Q009,text,can you help me find gate a3,gate,gate,0.396934449672699,True
+Q010,text,how do i get to baggage claim,baggage_claim,baggage_claim,0.6392215490341187,True
+Q011,text,where can i collect my luggage,baggage_claim,baggage_claim,0.38062581419944763,True
+Q012,text,which carousel is for the flight from london,baggage_claim,gate,0.25860604643821716,False
+Q013,text,is baggage claim on the ground floor,baggage_claim,baggage_claim,0.5133161544799805,True
+Q014,text,where is the oversized baggage area,baggage_claim,baggage_claim,0.40760278701782227,True
+Q015,text,how do i find baggage belt 4,baggage_claim,baggage_claim,0.38257521390914917,True
+Q016,text,can you point me to the luggage collection zone,baggage_claim,baggage_claim,0.36628296971321106,True
+Q017,text,where do i pick up my bags,baggage_claim,baggage_claim,0.2891930341720581,True
+Q018,text,i need to find the baggage hall,baggage_claim,baggage_claim,0.44082510471343994,True
+Q019,text,where is the check in desk for international flights,check_in,check_in,0.5903357267379761,True
+Q020,text,how do i find the lufthansa check-in,check_in,check_in,0.31276917457580566,True
+Q021,text,is there a self-service check-in kiosk here,check_in,check_in,0.23053131997585297,True
+Q022,text,where do i drop my bags for check-in,check_in,check_in,0.28997111320495605,True
+Q023,text,which counter is for emirates check-in,check_in,check_in,0.32477331161499023,True
+Q024,text,can you direct me to the check-in area,check_in,check_in,0.4485638737678528,True
+Q025,text,are the check-in desks open for the 14:30 flight,check_in,check_in,0.44985973834991455,True
+Q026,text,where is the first class check-in,check_in,check_in,0.3084322512149811,True
+Q027,text,i need to check in my luggage,check_in,check_in,0.46126189827919006,True
+Q028,text,is there a lounge near terminal 2,lounge,lounge,0.46614617109298706,True
+Q029,text,where is the british airways lounge,lounge,lounge,0.5495792627334595,True
+Q030,text,how do i get to the vip lounge,lounge,lounge,0.4832717776298523,True
+Q031,text,is the business lounge open right now,lounge,lounge,0.42505669593811035,True
+Q032,text,where can i find a priority pass lounge,lounge,lounge,0.32612988352775574,True
+Q033,text,can you direct me to the premium lounge,lounge,lounge,0.4070392847061157,True
+Q034,text,which floor is the executive lounge on,lounge,lounge,0.44514816999435425,True
+Q035,text,are there any lounges in concourse c,lounge,lounge,0.5277655124664307,True
+Q036,text,how much does it cost to enter the lounge,lounge,lounge,0.5026787519454956,True
+Q037,text,where can i find airport transport,transport,transport,0.6633925437927246,True
+Q038,text,how do i get to the taxi rank,transport,gate,0.3673303723335266,False
+Q039,text,is there a train station connection here,transport,information_desk,0.2805739641189575,False
+Q040,text,where does the airport shuttle bus leave from,transport,transport,0.5670254230499268,True
+Q041,text,can you direct me to the car rental desks,transport,information_desk,0.28400465846061707,False
+Q042,text,where is the pickup zone for uber,transport,check_in,0.2643885612487793,False
+Q043,text,how do i reach the subway station,transport,information_desk,0.27618634700775146,False
+Q044,text,is the bus stop outside terminal 1,transport,information_desk,0.32893720269203186,False
+Q045,text,where can i catch a taxi,transport,check_in,0.3306995928287506,False
+Q046,text,where is the nearest information desk,information_desk,information_desk,0.488472580909729,True
+Q047,text,i need help where is the customer service counter,information_desk,information_desk,0.21520119905471802,True
+Q048,text,is there a help desk nearby,information_desk,information_desk,0.22239413857460022,True
+Q049,text,where can i ask a question about my flight,information_desk,flight_delay,0.4812667667865753,False
+Q050,text,can you show me to the tourist information center,information_desk,information_desk,0.30640709400177,True
+Q051,text,where is the airport assistance desk,information_desk,information_desk,0.5975754261016846,True
+Q052,text,how do i find the lost and found office,information_desk,information_desk,0.2717518210411072,True
+Q053,text,is there a staff member i can speak to,information_desk,information_desk,0.16864703595638275,True
+Q054,text,where is the central information point,information_desk,information_desk,0.3108804225921631,True
+Q055,text,is my flight delayed,flight_delay,flight_delay,0.6926438808441162,True
+Q056,text,has the 08:30 flight to berlin been delayed,flight_delay,flight_delay,0.5435108542442322,True
+Q057,text,when is the new departure time for my delayed flight,flight_delay,flight_delay,0.6458172798156738,True
+Q058,text,why is my flight delayed,flight_delay,flight_delay,0.6611422300338745,True
+Q059,text,can you check if my flight is on time,flight_delay,flight_delay,0.5149766802787781,True
+Q060,text,how long is the delay for flight ba123,flight_delay,flight_delay,0.5944563746452332,True
+Q061,text,has the boarding time changed due to the delay,flight_delay,flight_delay,0.5989128351211548,True
+Q062,text,where can i see the delayed flight board,flight_delay,flight_delay,0.5366089344024658,True
+Q063,text,is the flight to paris cancelled or delayed,flight_delay,flight_delay,0.45019569993019104,True
+Q064,text,where is the security checkpoint,security,security,0.3557473421096802,True
+Q065,text,how long is the queue for security,security,security,0.31137824058532715,True
+Q066,text,is there a fast track security lane,security,security,0.1980794072151184,True
+Q067,text,where do i go for passport control,security,security,0.2144954800605774,True
+Q068,text,which way to the domestic security screening,security,security,0.4188233017921448,True
+Q069,text,do i need to take my laptop out at security,security,security,0.3100730776786804,True
+Q070,text,where is the security control for terminal 2,security,security,0.2880179286003113,True
+Q071,text,can you direct me to customs,security,transport,0.27810704708099365,False
+Q072,text,how do i reach the security gates,security,gate,0.40027591586112976,False

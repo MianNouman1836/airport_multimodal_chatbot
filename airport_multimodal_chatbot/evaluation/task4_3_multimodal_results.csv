@@ -1,0 +1,6 @@
+Scenario,Modalities,Matched_Name,Fused_Score,Image_Score,Text_Score,Agreement,Confidence
+Scenario 1: Image only,image,Customs Area,1.0,1.0,,,High confidence
+Scenario 2: Text only,text,Security Control Terminal 1,1.0,,1.0,,High confidence
+Scenario 3: Voice only,voice,Airport Lounge,1.0,,1.0,,High confidence
+Scenario 4: Image + text,"image, text",Security Control Terminal 1,0.7583000659942627,0.5605455636978149,1.0,False,Moderate confidence
+Scenario 5: Image + voice,"image, voice",Customs Area,0.7131842374801636,1.0,0.3626316487789154,False,Moderate confidence

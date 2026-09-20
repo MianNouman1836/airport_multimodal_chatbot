@@ -1,0 +1,17 @@
+{
+    "clip_model_name": "openai/clip-vit-base-patch32",
+    "minilm_model_name": "sentence-transformers/all-MiniLM-L6-v2",
+    "whisper_model_name": "base",
+    "fusion_weights": {
+        "IMAGE_WEIGHT": 0.55,
+        "TEXT_WEIGHT": 0.45
+    },
+    "confidence_thresholds": {
+        "high": 0.8,
+        "moderate": 0.5
+    },
+    "normalization_method": "min_max",
+    "top_k": 3,
+    "seed": 42,
+    "timestamp": "2026-09-20T12:23:34.901559"
+}

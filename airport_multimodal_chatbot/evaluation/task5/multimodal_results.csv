@@ -1,0 +1,6 @@
+scenario_id,scenario_name,input_modalities,top_1_record,top_3_records,final_score,confidence_label,modality_agreement,ground_truth,correct
+1,Image Only,,KB020,KB020|KB019|KB018,0.0,LOW,True,KB_SECURITY_01,False
+2,Text Only,text,KB007,KB007|KB008|KB014,1.0,HIGH,True,KB_SECURITY_01,False
+3,Voice Only,,KB020,KB020|KB019|KB018,0.0,LOW,True,KB_SECURITY_01,False
+4,Image + Text,text,KB008,KB008|KB007|KB019,1.0,HIGH,True,KB_SECURITY_01,False
+5,Image + Voice,,KB020,KB020|KB019|KB018,0.0,LOW,True,KB_SECURITY_01,False

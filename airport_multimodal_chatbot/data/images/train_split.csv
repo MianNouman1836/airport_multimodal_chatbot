@@ -1,0 +1,181 @@
+image_id,filename,category,original_label,source_dataset,source_url,licence,synthetic_or_real,width,height,file_format,channels
+IMG_037,baggage_claim_037.png,baggage_claim,baggage claim,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,400,400,PNG,3
+IMG_163,transport_163.png,transport,transport,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,300,PNG,3
+IMG_211,restaurant_211.png,restaurant,restaurant,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,512,PNG,3
+IMG_030,baggage_claim_030.png,baggage_claim,baggage claim,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,400,PNG,3
+IMG_024,gate_024.png,gate,gate,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,300,PNG,3
+IMG_127,lounge_127.png,lounge,lounge,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_059,check_in_059.png,check_in,check in,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,512,PNG,3
+IMG_222,restaurant_222.png,restaurant,restaurant,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,400,PNG,3
+IMG_125,restroom_125.png,restroom,restroom,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,400,PNG,3
+IMG_025,gate_025.png,gate,gate,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,512,PNG,3
+IMG_180,information_desk_180.png,information_desk,information desk,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_208,restaurant_208.png,restaurant,restaurant,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_038,baggage_claim_038.png,baggage_claim,baggage claim,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_181,information_desk_181.png,information_desk,information desk,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,400,PNG,3
+IMG_215,restaurant_215.png,restaurant,restaurant,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,400,PNG,3
+IMG_153,transport_153.png,transport,transport,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,512,PNG,3
+IMG_100,security_100.png,security,security,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_169,transport_169.png,transport,transport,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,400,PNG,3
+IMG_091,security_091.png,security,security,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,300,PNG,3
+IMG_041,baggage_claim_041.png,baggage_claim,baggage claim,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_005,gate_005.png,gate,gate,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_066,check_in_066.png,check_in,check in,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,300,PNG,3
+IMG_031,baggage_claim_031.png,baggage_claim,baggage claim,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,300,PNG,3
+IMG_143,lounge_143.png,lounge,lounge,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,300,PNG,3
+IMG_046,baggage_claim_046.png,baggage_claim,baggage claim,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,512,PNG,3
+IMG_003,gate_003.png,gate,gate,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,400,PNG,3
+IMG_077,security_077.png,security,security,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_111,restroom_111.png,restroom,restroom,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,400,PNG,3
+IMG_034,baggage_claim_034.png,baggage_claim,baggage claim,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,400,512,PNG,3
+IMG_144,lounge_144.png,lounge,lounge,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,400,PNG,3
+IMG_207,restaurant_207.png,restaurant,restaurant,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_052,check_in_052.png,check_in,check in,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,512,PNG,3
+IMG_013,gate_013.png,gate,gate,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_191,information_desk_191.png,information_desk,information desk,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,300,PNG,3
+IMG_105,restroom_105.png,restroom,restroom,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,512,PNG,3
+IMG_083,security_083.png,security,security,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,300,PNG,3
+IMG_142,lounge_142.png,lounge,lounge,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_011,gate_011.png,gate,gate,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_014,gate_014.png,gate,gate,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_196,information_desk_196.png,information_desk,information desk,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,300,PNG,3
+IMG_139,lounge_139.png,lounge,lounge,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_214,restaurant_214.png,restaurant,restaurant,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_201,restaurant_201.png,restaurant,restaurant,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_076,security_076.png,security,security,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_120,restroom_120.png,restroom,restroom,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_056,check_in_056.png,check_in,check in,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,400,300,PNG,3
+IMG_055,check_in_055.png,check_in,check in,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,300,PNG,3
+IMG_190,information_desk_190.png,information_desk,information desk,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,300,PNG,3
+IMG_150,lounge_150.png,lounge,lounge,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,300,PNG,3
+IMG_008,gate_008.png,gate,gate,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_063,check_in_063.png,check_in,check in,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,512,PNG,3
+IMG_184,information_desk_184.png,information_desk,information desk,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,512,PNG,3
+IMG_166,transport_166.png,transport,transport,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,400,PNG,3
+IMG_178,information_desk_178.png,information_desk,information desk,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,400,400,PNG,3
+IMG_102,restroom_102.png,restroom,restroom,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,400,PNG,3
+IMG_115,restroom_115.png,restroom,restroom,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,512,PNG,3
+IMG_122,restroom_122.png,restroom,restroom,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_199,information_desk_199.png,information_desk,information desk,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,300,PNG,3
+IMG_035,baggage_claim_035.png,baggage_claim,baggage claim,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,512,PNG,3
+IMG_152,transport_152.png,transport,transport,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_022,gate_022.png,gate,gate,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,512,PNG,3
+IMG_074,check_in_074.png,check_in,check in,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,400,300,PNG,3
+IMG_183,information_desk_183.png,information_desk,information desk,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,512,PNG,3
+IMG_162,transport_162.png,transport,transport,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,400,PNG,3
+IMG_010,gate_010.png,gate,gate,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,400,PNG,3
+IMG_149,lounge_149.png,lounge,lounge,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,512,PNG,3
+IMG_019,gate_019.png,gate,gate,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,400,PNG,3
+IMG_118,restroom_118.png,restroom,restroom,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,400,PNG,3
+IMG_206,restaurant_206.png,restaurant,restaurant,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,300,PNG,3
+IMG_049,baggage_claim_049.png,baggage_claim,baggage claim,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,512,PNG,3
+IMG_044,baggage_claim_044.png,baggage_claim,baggage claim,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,512,PNG,3
+IMG_098,security_098.png,security,security,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,512,PNG,3
+IMG_220,restaurant_220.png,restaurant,restaurant,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_173,transport_173.png,transport,transport,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_188,information_desk_188.png,information_desk,information desk,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_051,check_in_051.png,check_in,check in,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_146,lounge_146.png,lounge,lounge,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,512,PNG,3
+IMG_156,transport_156.png,transport,transport,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,400,400,PNG,3
+IMG_213,restaurant_213.png,restaurant,restaurant,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,512,PNG,3
+IMG_071,check_in_071.png,check_in,check in,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,400,512,PNG,3
+IMG_145,lounge_145.png,lounge,lounge,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,400,PNG,3
+IMG_209,restaurant_209.png,restaurant,restaurant,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,300,PNG,3
+IMG_018,gate_018.png,gate,gate,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,300,PNG,3
+IMG_108,restroom_108.png,restroom,restroom,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,400,PNG,3
+IMG_070,check_in_070.png,check_in,check in,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_061,check_in_061.png,check_in,check in,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,300,PNG,3
+IMG_129,lounge_129.png,lounge,lounge,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,400,PNG,3
+IMG_012,gate_012.png,gate,gate,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,400,PNG,3
+IMG_195,information_desk_195.png,information_desk,information desk,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,400,PNG,3
+IMG_160,transport_160.png,transport,transport,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_204,restaurant_204.png,restaurant,restaurant,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,400,PNG,3
+IMG_043,baggage_claim_043.png,baggage_claim,baggage claim,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,400,PNG,3
+IMG_197,information_desk_197.png,information_desk,information desk,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_089,security_089.png,security,security,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_027,baggage_claim_027.png,baggage_claim,baggage claim,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,400,PNG,3
+IMG_050,baggage_claim_050.png,baggage_claim,baggage claim,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_123,restroom_123.png,restroom,restroom,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,300,PNG,3
+IMG_064,check_in_064.png,check_in,check in,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_029,baggage_claim_029.png,baggage_claim,baggage claim,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_202,restaurant_202.png,restaurant,restaurant,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_165,transport_165.png,transport,transport,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,300,PNG,3
+IMG_096,security_096.png,security,security,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,400,PNG,3
+IMG_148,lounge_148.png,lounge,lounge,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,300,PNG,3
+IMG_016,gate_016.png,gate,gate,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,400,PNG,3
+IMG_200,information_desk_200.png,information_desk,information desk,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,400,PNG,3
+IMG_189,information_desk_189.png,information_desk,information desk,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,512,PNG,3
+IMG_054,check_in_054.png,check_in,check in,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,512,PNG,3
+IMG_157,transport_157.png,transport,transport,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_176,information_desk_176.png,information_desk,information desk,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,512,PNG,3
+IMG_080,security_080.png,security,security,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,400,PNG,3
+IMG_210,restaurant_210.png,restaurant,restaurant,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,400,PNG,3
+IMG_047,baggage_claim_047.png,baggage_claim,baggage claim,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,400,PNG,3
+IMG_155,transport_155.png,transport,transport,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,400,PNG,3
+IMG_068,check_in_068.png,check_in,check in,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,400,PNG,3
+IMG_221,restaurant_221.png,restaurant,restaurant,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,512,PNG,3
+IMG_147,lounge_147.png,lounge,lounge,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,300,PNG,3
+IMG_092,security_092.png,security,security,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,400,PNG,3
+IMG_116,restroom_116.png,restroom,restroom,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,400,PNG,3
+IMG_131,lounge_131.png,lounge,lounge,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,512,PNG,3
+IMG_097,security_097.png,security,security,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,400,PNG,3
+IMG_161,transport_161.png,transport,transport,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,400,PNG,3
+IMG_057,check_in_057.png,check_in,check in,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,400,PNG,3
+IMG_192,information_desk_192.png,information_desk,information desk,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_164,transport_164.png,transport,transport,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,400,PNG,3
+IMG_182,information_desk_182.png,information_desk,information desk,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_154,transport_154.png,transport,transport,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,400,PNG,3
+IMG_175,transport_175.png,transport,transport,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,400,PNG,3
+IMG_053,check_in_053.png,check_in,check in,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,400,PNG,3
+IMG_212,restaurant_212.png,restaurant,restaurant,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,300,PNG,3
+IMG_001,gate_001.png,gate,gate,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,512,PNG,3
+IMG_121,restroom_121.png,restroom,restroom,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,400,PNG,3
+IMG_124,restroom_124.png,restroom,restroom,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,512,PNG,3
+IMG_168,transport_168.png,transport,transport,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,400,PNG,3
+IMG_048,baggage_claim_048.png,baggage_claim,baggage claim,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_073,check_in_073.png,check_in,check in,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,400,PNG,3
+IMG_006,gate_006.png,gate,gate,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,400,400,PNG,3
+IMG_078,security_078.png,security,security,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,400,512,PNG,3
+IMG_042,baggage_claim_042.png,baggage_claim,baggage claim,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,512,PNG,3
+IMG_225,restaurant_225.png,restaurant,restaurant,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_007,gate_007.png,gate,gate,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,512,PNG,3
+IMG_217,restaurant_217.png,restaurant,restaurant,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_084,security_084.png,security,security,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,512,PNG,3
+IMG_039,baggage_claim_039.png,baggage_claim,baggage claim,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,300,PNG,3
+IMG_137,lounge_137.png,lounge,lounge,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,400,400,PNG,3
+IMG_017,gate_017.png,gate,gate,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,512,PNG,3
+IMG_028,baggage_claim_028.png,baggage_claim,baggage claim,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,400,300,PNG,3
+IMG_106,restroom_106.png,restroom,restroom,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,300,PNG,3
+IMG_219,restaurant_219.png,restaurant,restaurant,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,512,PNG,3
+IMG_135,lounge_135.png,lounge,lounge,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_065,check_in_065.png,check_in,check in,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,400,300,PNG,3
+IMG_112,restroom_112.png,restroom,restroom,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,400,300,PNG,3
+IMG_023,gate_023.png,gate,gate,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,400,PNG,3
+IMG_128,lounge_128.png,lounge,lounge,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,600,512,PNG,3
+IMG_094,security_094.png,security,security,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_088,security_088.png,security,security,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_130,lounge_130.png,lounge,lounge,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,400,PNG,3
+IMG_171,transport_171.png,transport,transport,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,300,PNG,3
+IMG_093,security_093.png,security,security,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,400,512,PNG,3
+IMG_026,baggage_claim_026.png,baggage_claim,baggage claim,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,400,PNG,3
+IMG_141,lounge_141.png,lounge,lounge,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,400,PNG,3
+IMG_198,information_desk_198.png,information_desk,information desk,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_109,restroom_109.png,restroom,restroom,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,300,PNG,3
+IMG_136,lounge_136.png,lounge,lounge,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_085,security_085.png,security,security,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_104,restroom_104.png,restroom,restroom,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,512,PNG,3
+IMG_133,lounge_133.png,lounge,lounge,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,400,PNG,3
+IMG_218,restaurant_218.png,restaurant,restaurant,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,400,512,PNG,3
+IMG_186,information_desk_186.png,information_desk,information desk,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,512,PNG,3
+IMG_058,check_in_058.png,check_in,check in,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,300,PNG,3
+IMG_069,check_in_069.png,check_in,check in,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_079,security_079.png,security,security,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_101,restroom_101.png,restroom,restroom,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,400,PNG,3
+IMG_194,information_desk_194.png,information_desk,information desk,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,300,PNG,3
+IMG_151,transport_151.png,transport,transport,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,400,PNG,3
+IMG_082,security_082.png,security,security,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,600,512,PNG,3
+IMG_158,transport_158.png,transport,transport,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,300,PNG,3
+IMG_004,gate_004.png,gate,gate,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,400,300,PNG,3
+IMG_103,restroom_103.png,restroom,restroom,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,400,PNG,3
+IMG_114,restroom_114.png,restroom,restroom,curated_open_signage,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,real,512,512,PNG,3
+IMG_090,security_090.png,security,security,procedural_mockup,https://data.mendeley.com/datasets/airport-wayfinding,CC BY 4.0,synthetic,512,512,PNG,3

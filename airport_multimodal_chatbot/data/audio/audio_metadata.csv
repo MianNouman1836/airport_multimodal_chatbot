@@ -1,0 +1,33 @@
+query_id,intent,text,audio_file,audio_format,tts_method,duration_seconds
+Q002,gate,How can I get to gate A7?,gate_Q002.wav,WAV,gTTS,2.47
+Q003,gate,Which terminal has gate C15?,gate_Q003.wav,WAV,gTTS,3.07
+Q007,gate,How do I reach gate D10?,gate_Q007.wav,WAV,gTTS,2.47
+Q008,gate,Where is my departure gate B6?,gate_Q008.wav,WAV,gTTS,2.93
+Q010,baggage_claim,How do I get to baggage claim?,baggage_claim_Q010.wav,WAV,gTTS,2.4
+Q011,baggage_claim,Where can I collect my luggage?,baggage_claim_Q011.wav,WAV,gTTS,2.52
+Q015,baggage_claim,How do I find baggage belt 4?,baggage_claim_Q015.wav,WAV,gTTS,2.76
+Q017,baggage_claim,Where do I pick up my bags?,baggage_claim_Q017.wav,WAV,gTTS,2.35
+Q019,check_in,Where is the check in desk for international flights?,check_in_Q019.wav,WAV,gTTS,3.6
+Q020,check_in,How do I find the Lufthansa check-in?,check_in_Q020.wav,WAV,gTTS,3.05
+Q022,check_in,Where do I drop my bags for check-in?,check_in_Q022.wav,WAV,gTTS,2.81
+Q024,check_in,Can you direct me to the check-in area?,check_in_Q024.wav,WAV,gTTS,2.76
+Q030,lounge,How do I get to the VIP lounge?,lounge_Q030.wav,WAV,gTTS,2.88
+Q033,lounge,Can you direct me to the premium lounge?,lounge_Q033.wav,WAV,gTTS,2.88
+Q035,lounge,Are there any lounges in concourse C?,lounge_Q035.wav,WAV,gTTS,2.88
+Q036,lounge,How much does it cost to enter the lounge?,lounge_Q036.wav,WAV,gTTS,3.0
+Q038,transport,How do I get to the taxi rank?,transport_Q038.wav,WAV,gTTS,2.52
+Q042,transport,Where is the pickup zone for Uber?,transport_Q042.wav,WAV,gTTS,2.64
+Q044,transport,Is the bus stop outside terminal 1?,transport_Q044.wav,WAV,gTTS,3.0
+Q045,transport,Where can I catch a taxi?,transport_Q045.wav,WAV,gTTS,2.23
+Q047,information_desk,"I need help, where is the customer service counter?",information_desk_Q047.wav,WAV,gTTS,4.15
+Q050,information_desk,Can you show me to the tourist information center?,information_desk_Q050.wav,WAV,gTTS,3.43
+Q051,information_desk,Where is the airport assistance desk?,information_desk_Q051.wav,WAV,gTTS,2.88
+Q054,information_desk,Where is the central information point?,information_desk_Q054.wav,WAV,gTTS,2.83
+Q055,flight_delay,Is my flight delayed?,flight_delay_Q055.wav,WAV,gTTS,1.85
+Q057,flight_delay,When is the new departure time for my delayed flight?,flight_delay_Q057.wav,WAV,gTTS,3.6
+Q061,flight_delay,Has the boarding time changed due to the delay?,flight_delay_Q061.wav,WAV,gTTS,3.29
+Q063,flight_delay,Is the flight to Paris cancelled or delayed?,flight_delay_Q063.wav,WAV,gTTS,3.17
+Q064,security,Where is the security checkpoint?,security_Q064.wav,WAV,gTTS,2.59
+Q066,security,Is there a fast track security lane?,security_Q066.wav,WAV,gTTS,3.0
+Q069,security,Do I need to take my laptop out at security?,security_Q069.wav,WAV,gTTS,3.43
+Q070,security,Where is the security control for terminal 2?,security_Q070.wav,WAV,gTTS,3.43

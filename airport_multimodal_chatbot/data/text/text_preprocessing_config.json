@@ -1,0 +1,11 @@
+{
+    "random_seed": 42,
+    "train_validation_ratio": "80/20",
+    "tokenization_method": "regex_whitespace",
+    "stopword_method": "custom_domain_safe_filter",
+    "entity_method": "rule_based_regex",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "embedding_pooling_method": "mean_pooling",
+    "embedding_normalization": "L2",
+    "embedding_device": "cuda"
+}

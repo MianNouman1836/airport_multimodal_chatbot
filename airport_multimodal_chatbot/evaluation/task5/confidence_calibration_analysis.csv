@@ -1,0 +1,4 @@
+Confidence Level,Correct Count,Incorrect Count
+HIGH (>=0.75),0,2
+MODERATE (0.45-0.75),0,0
+LOW (<0.45),0,3

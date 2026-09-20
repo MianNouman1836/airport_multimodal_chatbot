@@ -1,0 +1,3 @@
+query_id,modality,raw_text,gate_number,terminal_number,service_name,location,airline,time
+Q066,voice,Is there a fast track security lane?,,,,,,
+Q036,voice,How much does it cost to enter the lounge?,,,,,,

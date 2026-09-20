@@ -1,0 +1,12 @@
+{
+    "model_name": "openai/clip-vit-base-patch32",
+    "model_type": "CLIP",
+    "transformers_version": "4.57.1",
+    "pytorch_version": "2.11.0+cu128",
+    "faiss_version": "1.14.3",
+    "device": "cuda",
+    "embedding_normalization": "L2",
+    "faiss_index": "IndexFlatIP",
+    "top_k": 3,
+    "frozen": true
+}

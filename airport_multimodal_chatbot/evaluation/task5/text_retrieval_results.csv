@@ -1,0 +1,11 @@
+query,ground_truth_id,top1_retrieved_id,top3_retrieved_ids,top1_similarity,correct_top1,correct_top3
+Where is the security checkpoint?,KB007,KB007,KB007|KB008|KB014,0.6025609970092773,True,True
+Where can I collect my luggage?,KB005,KB006,KB006|KB005|KB004,0.5833982825279236,False,True
+Where is the airport lounge?,KB011,KB011,KB011|KB014|KB001,0.7668523788452148,True,True
+Where is the train station connection?,KB015,KB015,KB015|KB014|KB016,0.6595562696456909,True,True
+Where is the taxi pickup area?,KB016,KB016,KB016|KB004|KB011,0.5851719379425049,True,True
+Where can I get special assistance?,KB018,KB018,KB018|KB009|KB010,0.5942409634590149,True,True
+Where is the information desk?,KB009,KB009,KB009|KB018|KB010,0.5395014882087708,True,True
+Where can I check in for my flight?,KB003,KB004,KB004|KB003|KB001,0.5839328765869141,False,True
+Where can I get food at the airport?,KB017,KB011,KB011|KB017|KB014,0.5664451122283936,False,True
+Where is Gate A7?,KB002,KB002,KB002|KB001|KB008,0.6875471472740173,True,True

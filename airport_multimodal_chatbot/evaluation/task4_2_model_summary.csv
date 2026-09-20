@@ -1,0 +1,2 @@
+audio_samples_tested,whisper_average_wer,whisper_exact_match_percentage,typed_intent_accuracy,voice_intent_accuracy,text_retrieval_top1_accuracy,text_retrieval_top3_accuracy
+32,0.030629960317460313,84.375,0.6826923076923077,0.71875,0.7,0.9

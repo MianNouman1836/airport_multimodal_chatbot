@@ -1,0 +1,11 @@
+raw_text,clean_text,tokens,stopword_filtered_tokens
+Where is gate B12?,where is gate b12,"[""where"", ""is"", ""gate"", ""b12""]","[""where"", ""gate"", ""b12""]"
+How can I get to gate A7?,how can i get to gate a7,"[""how"", ""can"", ""i"", ""get"", ""to"", ""gate"", ""a7""]","[""how"", ""get"", ""gate"", ""a7""]"
+Which terminal has gate C15?,which terminal has gate c15,"[""which"", ""terminal"", ""has"", ""gate"", ""c15""]","[""terminal"", ""gate"", ""c15""]"
+Please tell me the direction to gate B4.,please tell me the direction to gate b4,"[""please"", ""tell"", ""me"", ""the"", ""direction"", ""to"", ""gate"", ""b4""]","[""please"", ""tell"", ""direction"", ""gate"", ""b4""]"
+Where can I find boarding gate A12?,where can i find boarding gate a12,"[""where"", ""can"", ""i"", ""find"", ""boarding"", ""gate"", ""a12""]","[""where"", ""find"", ""boarding"", ""gate"", ""a12""]"
+Is gate C8 on the upper floor?,is gate c8 on the upper floor,"[""is"", ""gate"", ""c8"", ""on"", ""the"", ""upper"", ""floor""]","[""gate"", ""c8"", ""upper"", ""floor""]"
+How do I reach gate D10?,how do i reach gate d10,"[""how"", ""do"", ""i"", ""reach"", ""gate"", ""d10""]","[""how"", ""reach"", ""gate"", ""d10""]"
+Where is my departure gate B6?,where is my departure gate b6,"[""where"", ""is"", ""my"", ""departure"", ""gate"", ""b6""]","[""where"", ""departure"", ""gate"", ""b6""]"
+Can you help me find gate A3?,can you help me find gate a3,"[""can"", ""you"", ""help"", ""me"", ""find"", ""gate"", ""a3""]","[""help"", ""find"", ""gate"", ""a3""]"
+How do I get to baggage claim?,how do i get to baggage claim,"[""how"", ""do"", ""i"", ""get"", ""to"", ""baggage"", ""claim""]","[""how"", ""get"", ""baggage"", ""claim""]"

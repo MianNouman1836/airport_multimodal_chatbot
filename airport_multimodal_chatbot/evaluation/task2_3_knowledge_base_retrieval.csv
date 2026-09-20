@@ -1,0 +1,11 @@
+test_id,query,expected_category,predicted_category,top_record_id,top_record_name,retrieval_score,correct
+T001,Where is gate B12?,gate,gate,KB001,Gate B12,22,True
+T002,How do I get to baggage claim?,baggage_claim,baggage_claim,KB005,Baggage Claim Hall,11,True
+T003,Where is the check-in area?,check_in,check_in,KB004,Terminal 2 Check-in Area,11,True
+T004,Where can I find airport transport?,transport,transport,KB015,Train Station Connection,14,True
+T005,Where is the security checkpoint?,security,security,KB007,Security Control Terminal 1,15,True
+T006,Where is the information desk?,information_desk,information_desk,KB009,Information Desk,11,True
+T007,Where is the lounge?,lounge,lounge,KB011,Airport Lounge,12,True
+T008,Where is the taxi pickup?,transport,transport,KB016,Taxi Pickup Zone,12,True
+T009,Where is the prayer room?,prayer_room,prayer_room,KB012,Prayer Room,6,True
+T010,Where is lost and found?,lost_and_found,lost_and_found,KB010,Lost and Found Office,6,True

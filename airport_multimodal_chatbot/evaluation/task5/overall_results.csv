@@ -1,0 +1,14 @@
+Component,Metric,Value,Dataset/Split,Notes
+Vision,Top-1 Accuracy,0.00%,Validation Split,CLIP zero-shot classification
+Vision,Top-3 Accuracy,0.00%,Validation Split,CLIP zero-shot top-3 candidates
+Vision,Mean Top-1 Similarity,0.0000,Validation Split,Cosine similarity score
+Speech,Mean WER,1.0000,Audio Test/Val,Whisper base transcription
+Speech,Exact Match Rate,0.00%,Audio Test/Val,Exact text match without normalisation
+Speech,Sample Count,0,Audio Test/Val,Total processed audio files
+Text Intent,Accuracy,84.72%,Processed Text,MiniLM intent similarity match
+Text Intent,Weighted F1 Score,0.8270,Processed Text,Weighted average F1 score
+Text Intent,Macro F1 Score,0.8270,Processed Text,Macro average F1 score
+Text Retrieval,Top-1 Retrieval Accuracy,70.00%,KB Test Set,Exact KB record retrieval
+Text Retrieval,Top-3 Retrieval Accuracy,100.00%,KB Test Set,Top-3 KB record candidates
+Multimodal,Top-1 Accuracy,0.00%,Multimodal Scenarios,Weighted fusion model
+Multimodal,Agreement Rate,100.00%,Multimodal Scenarios,Cross-modality consensus

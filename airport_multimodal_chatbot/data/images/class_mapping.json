@@ -1,0 +1,24 @@
+{
+    "class_to_idx": {
+        "baggage_claim": 0,
+        "check_in": 1,
+        "gate": 2,
+        "information_desk": 3,
+        "lounge": 4,
+        "restaurant": 5,
+        "restroom": 6,
+        "security": 7,
+        "transport": 8
+    },
+    "idx_to_class": {
+        "0": "baggage_claim",
+        "1": "check_in",
+        "2": "gate",
+        "3": "information_desk",
+        "4": "lounge",
+        "5": "restaurant",
+        "6": "restroom",
+        "7": "security",
+        "8": "transport"
+    }
+}

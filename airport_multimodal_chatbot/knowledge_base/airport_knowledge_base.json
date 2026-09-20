@@ -1,0 +1,446 @@
+[
+    {
+        "record_id": "KB001",
+        "name": "Gate B12",
+        "category": "gate",
+        "terminal": "Terminal 2",
+        "floor_zone": "Level 1 - Zone B",
+        "description": "Departure gate B12 for Nova International Airport domestic and short-haul flights.",
+        "opening_hours": "Open 24 hours",
+        "direction": "After Terminal 2 security, turn right and walk to the end of the blue corridor.",
+        "accessibility": "Step-free access, wheelchair seating available.",
+        "related_facilities": [
+            "Restroom Terminal 2",
+            "Airport Lounge"
+        ],
+        "emergency_assistance_contact": "Simulated Airport Assistance Desk - Extension 101",
+        "search_terms": [
+            "gate B12",
+            "B12",
+            "boarding gate",
+            "departure gate",
+            "gate"
+        ]
+    },
+    {
+        "record_id": "KB002",
+        "name": "Gate A7",
+        "category": "gate",
+        "terminal": "Terminal 1",
+        "floor_zone": "Level 2 - Zone A",
+        "description": "Departure gate A7 for long-haul international flights.",
+        "opening_hours": "Open 24 hours",
+        "direction": "Take the escalator to Level 2 after Duty Free and follow the yellow signs.",
+        "accessibility": "Accessible lift nearby, tactile paving.",
+        "related_facilities": [
+            "Restroom Terminal 1",
+            "Restaurant Area"
+        ],
+        "emergency_assistance_contact": "Simulated Airport Assistance Desk - Extension 102",
+        "search_terms": [
+            "gate A7",
+            "A7",
+            "boarding gate",
+            "departure gate",
+            "gate"
+        ]
+    },
+    {
+        "record_id": "KB003",
+        "name": "Terminal 1 Check-in Area",
+        "category": "check_in",
+        "terminal": "Terminal 1",
+        "floor_zone": "Ground Floor - Main Hall",
+        "description": "Standard and self-service check-in desks for Terminal 1 airlines.",
+        "opening_hours": "04:00 AM - 11:30 PM",
+        "direction": "Located directly opposite the main entrance doors of Terminal 1.",
+        "accessibility": "Low-level check-in counters available.",
+        "related_facilities": [
+            "Information Desk",
+            "Oversized Baggage Service"
+        ],
+        "emergency_assistance_contact": "Simulated Operations - Extension 201",
+        "search_terms": [
+            "check-in",
+            "check in desk",
+            "bag drop",
+            "ticket counter",
+            "boarding pass"
+        ]
+    },
+    {
+        "record_id": "KB004",
+        "name": "Terminal 2 Check-in Area",
+        "category": "check_in",
+        "terminal": "Terminal 2",
+        "floor_zone": "Ground Floor - East Wing",
+        "description": "Check-in area primarily serving budget and regional airlines.",
+        "opening_hours": "04:00 AM - 10:00 PM",
+        "direction": "Enter Terminal 2 and follow signs for East Wing departures.",
+        "accessibility": "Visual signage available, hearing loop installed.",
+        "related_facilities": [
+            "Special Assistance Desk"
+        ],
+        "emergency_assistance_contact": "Simulated Operations - Extension 202",
+        "search_terms": [
+            "check-in",
+            "check in area",
+            "bag drop",
+            "luggage check"
+        ]
+    },
+    {
+        "record_id": "KB005",
+        "name": "Baggage Claim Hall",
+        "category": "baggage_claim",
+        "terminal": "Terminal 1",
+        "floor_zone": "Ground Floor - Arrivals",
+        "description": "Main luggage collection area featuring carousels 1 through 8.",
+        "opening_hours": "Open 24 hours",
+        "direction": "Follow the 'Arrivals & Baggage' signs immediately after Passport Control.",
+        "accessibility": "Spacious corridors, accessible trolley points.",
+        "related_facilities": [
+            "Lost and Found Office",
+            "Customs Area"
+        ],
+        "emergency_assistance_contact": "Simulated Baggage Services - Extension 301",
+        "search_terms": [
+            "baggage claim",
+            "luggage",
+            "bags",
+            "baggage hall",
+            "carousel",
+            "collection"
+        ]
+    },
+    {
+        "record_id": "KB006",
+        "name": "Oversized Baggage Service",
+        "category": "baggage_claim",
+        "terminal": "Terminal 1",
+        "floor_zone": "Ground Floor - Main Hall",
+        "description": "Drop-off and collection point for sports equipment, pets, and oversized luggage.",
+        "opening_hours": "05:00 AM - 11:00 PM",
+        "direction": "Located adjacent to Carousel 8 in the Arrivals Hall.",
+        "accessibility": "Wide access doors, ramped entry.",
+        "related_facilities": [
+            "Terminal 1 Check-in Area"
+        ],
+        "emergency_assistance_contact": "Simulated Baggage Services - Extension 302",
+        "search_terms": [
+            "oversized baggage",
+            "large luggage",
+            "sports equipment",
+            "odd size baggage"
+        ]
+    },
+    {
+        "record_id": "KB007",
+        "name": "Security Control Terminal 1",
+        "category": "security",
+        "terminal": "Terminal 1",
+        "floor_zone": "Level 1 - Central",
+        "description": "Main security screening point for Terminal 1 departures.",
+        "opening_hours": "Open 24 hours",
+        "direction": "Proceed up the central escalators from the check-in hall.",
+        "accessibility": "Dedicated fast-track and wheelchair-accessible screening lane.",
+        "related_facilities": [
+            "Terminal 1 Check-in Area"
+        ],
+        "emergency_assistance_contact": "Simulated Security Command - Extension 401",
+        "search_terms": [
+            "security",
+            "security checkpoint",
+            "screening",
+            "metal detector"
+        ]
+    },
+    {
+        "record_id": "KB008",
+        "name": "Security Control Terminal 2",
+        "category": "security",
+        "terminal": "Terminal 2",
+        "floor_zone": "Ground Floor - Central",
+        "description": "Security screening point for Terminal 2 regional departures.",
+        "opening_hours": "04:30 AM - 11:00 PM",
+        "direction": "Located directly behind the Terminal 2 check-in desks.",
+        "accessibility": "Step-free access through all lanes.",
+        "related_facilities": [
+            "Terminal 2 Check-in Area"
+        ],
+        "emergency_assistance_contact": "Simulated Security Command - Extension 402",
+        "search_terms": [
+            "security",
+            "security control",
+            "screening"
+        ]
+    },
+    {
+        "record_id": "KB009",
+        "name": "Information Desk",
+        "category": "information_desk",
+        "terminal": "Terminal 1",
+        "floor_zone": "Ground Floor - Main Hall",
+        "description": "Central customer service and general airport inquiries desk.",
+        "opening_hours": "06:00 AM - 10:00 PM",
+        "direction": "Situated in the exact center of the Terminal 1 main concourse.",
+        "accessibility": "Lowered desk sections, hearing loop available.",
+        "related_facilities": [
+            "Special Assistance Desk",
+            "Terminal 1 Check-in Area"
+        ],
+        "emergency_assistance_contact": "Simulated General Help - Extension 501",
+        "search_terms": [
+            "information desk",
+            "help desk",
+            "customer service",
+            "assistance"
+        ]
+    },
+    {
+        "record_id": "KB010",
+        "name": "Lost and Found Office",
+        "category": "lost_and_found",
+        "terminal": "Terminal 1",
+        "floor_zone": "Ground Floor - Arrivals",
+        "description": "Office for reporting and collecting misplaced items within the airport.",
+        "opening_hours": "08:00 AM - 08:00 PM",
+        "direction": "Located in the Arrivals hall, next to the exit doors.",
+        "accessibility": "Wheelchair accessible.",
+        "related_facilities": [
+            "Baggage Claim Hall",
+            "Information Desk"
+        ],
+        "emergency_assistance_contact": "Simulated Lost Property - Extension 502",
+        "search_terms": [
+            "lost and found",
+            "lost property",
+            "missing item"
+        ]
+    },
+    {
+        "record_id": "KB011",
+        "name": "Airport Lounge",
+        "category": "lounge",
+        "terminal": "Terminal 1",
+        "floor_zone": "Level 2 - Zone A",
+        "description": "Premium waiting area with complimentary food, Wi-Fi, and seating.",
+        "opening_hours": "05:00 AM - 11:30 PM",
+        "direction": "After security, take the lift to Level 2 and follow signs for VIP Lounges.",
+        "accessibility": "Accessible lift, accessible restrooms inside.",
+        "related_facilities": [
+            "Gate A7",
+            "Restroom Terminal 1"
+        ],
+        "emergency_assistance_contact": "Simulated Lounge Reception - Extension 601",
+        "search_terms": [
+            "lounge",
+            "vip lounge",
+            "business lounge",
+            "premium lounge",
+            "priority pass"
+        ]
+    },
+    {
+        "record_id": "KB012",
+        "name": "Prayer Room",
+        "category": "prayer_room",
+        "terminal": "Terminal 2",
+        "floor_zone": "Level 1 - Quiet Zone",
+        "description": "Multi-faith prayer and meditation room for passenger use.",
+        "opening_hours": "Open 24 hours",
+        "direction": "Next to Gate B4, follow the signs for 'Quiet Area'.",
+        "accessibility": "Step-free access, dedicated ablution facilities.",
+        "related_facilities": [
+            "Gate B12"
+        ],
+        "emergency_assistance_contact": "Simulated General Help - Extension 501",
+        "search_terms": [
+            "prayer room",
+            "chapel",
+            "meditation room",
+            "multi-faith"
+        ]
+    },
+    {
+        "record_id": "KB013",
+        "name": "Restroom Terminal 1",
+        "category": "restroom",
+        "terminal": "Terminal 1",
+        "floor_zone": "Level 1 - Central",
+        "description": "Public restrooms including baby changing facilities.",
+        "opening_hours": "Open 24 hours",
+        "direction": "Located immediately after Security Control on the left.",
+        "accessibility": "Dedicated accessible cubicles with grab rails.",
+        "related_facilities": [
+            "Security Control Terminal 1"
+        ],
+        "emergency_assistance_contact": "Simulated Facilities - Extension 701",
+        "search_terms": [
+            "restroom",
+            "toilet",
+            "bathroom",
+            "wc",
+            "washroom",
+            "baby changing"
+        ]
+    },
+    {
+        "record_id": "KB014",
+        "name": "Restroom Terminal 2",
+        "category": "restroom",
+        "terminal": "Terminal 2",
+        "floor_zone": "Level 1 - Zone B",
+        "description": "Public restrooms near the departure gates.",
+        "opening_hours": "Open 24 hours",
+        "direction": "Opposite Gate B12.",
+        "accessibility": "Dedicated accessible cubicles.",
+        "related_facilities": [
+            "Gate B12"
+        ],
+        "emergency_assistance_contact": "Simulated Facilities - Extension 702",
+        "search_terms": [
+            "restroom",
+            "toilet",
+            "bathroom",
+            "wc"
+        ]
+    },
+    {
+        "record_id": "KB015",
+        "name": "Train Station Connection",
+        "category": "transport",
+        "terminal": "Terminal 1",
+        "floor_zone": "Basement Level",
+        "description": "Direct connection to the city metro and regional rail networks.",
+        "opening_hours": "05:00 AM - 01:00 AM",
+        "direction": "Take the main elevator down to the basement from the Arrivals hall.",
+        "accessibility": "Elevator access, tactile paving to platforms.",
+        "related_facilities": [
+            "Information Desk"
+        ],
+        "emergency_assistance_contact": "Simulated Transport Police - Extension 801",
+        "search_terms": [
+            "train",
+            "metro",
+            "subway",
+            "railway",
+            "train station",
+            "transport"
+        ]
+    },
+    {
+        "record_id": "KB016",
+        "name": "Taxi Pickup Zone",
+        "category": "transport",
+        "terminal": "Terminal 1",
+        "floor_zone": "Exterior - Arrivals Level",
+        "description": "Official airport taxi rank and ride-share pickup zone.",
+        "opening_hours": "Open 24 hours",
+        "direction": "Exit the main doors from Baggage Claim and cross the first pedestrian crossing.",
+        "accessibility": "Dropped curbs, wheelchair-accessible taxis available on request.",
+        "related_facilities": [
+            "Baggage Claim Hall"
+        ],
+        "emergency_assistance_contact": "Simulated Transport Office - Extension 802",
+        "search_terms": [
+            "taxi",
+            "cab",
+            "uber",
+            "ride share",
+            "taxi rank",
+            "pickup",
+            "transport"
+        ]
+    },
+    {
+        "record_id": "KB017",
+        "name": "Restaurant Area",
+        "category": "restaurant",
+        "terminal": "Terminal 1",
+        "floor_zone": "Level 2 - Food Court",
+        "description": "Food court featuring multiple cafes, fast food, and dining options.",
+        "opening_hours": "06:00 AM - 11:00 PM",
+        "direction": "Located above the departure lounge, accessible via the central escalators.",
+        "accessibility": "Elevator access, open seating layout.",
+        "related_facilities": [
+            "Airport Lounge"
+        ],
+        "emergency_assistance_contact": "Simulated Facilities - Extension 701",
+        "search_terms": [
+            "restaurant",
+            "food",
+            "cafe",
+            "coffee",
+            "dining",
+            "eat"
+        ]
+    },
+    {
+        "record_id": "KB018",
+        "name": "Special Assistance Desk",
+        "category": "special_assistance",
+        "terminal": "Terminal 1",
+        "floor_zone": "Ground Floor - Main Hall",
+        "description": "Support desk for passengers requiring mobility assistance or other aid.",
+        "opening_hours": "Open 24 hours",
+        "direction": "Located immediately inside the main entrance of Terminal 1, on the right.",
+        "accessibility": "Fully accessible design, induction loop, low counters.",
+        "related_facilities": [
+            "Information Desk",
+            "Terminal 1 Check-in Area"
+        ],
+        "emergency_assistance_contact": "Simulated Medical/Assistance - Extension 999",
+        "search_terms": [
+            "special assistance",
+            "wheelchair",
+            "help",
+            "mobility",
+            "disabled"
+        ]
+    },
+    {
+        "record_id": "KB019",
+        "name": "Passport Control",
+        "category": "passport_control",
+        "terminal": "Terminal 1",
+        "floor_zone": "Ground Floor - Arrivals Corridor",
+        "description": "Immigration and border control for arriving international passengers.",
+        "opening_hours": "Open 24 hours",
+        "direction": "Follow the signs from the arrival gate down to the Ground Floor corridor.",
+        "accessibility": "Dedicated e-gates for wheelchair users.",
+        "related_facilities": [
+            "Baggage Claim Hall"
+        ],
+        "emergency_assistance_contact": "Simulated Border Force - Extension 901",
+        "search_terms": [
+            "passport control",
+            "immigration",
+            "border control",
+            "passports"
+        ]
+    },
+    {
+        "record_id": "KB020",
+        "name": "Customs Area",
+        "category": "customs",
+        "terminal": "Terminal 1",
+        "floor_zone": "Ground Floor - Exits",
+        "description": "Customs declaration point (Red/Green channels) before exiting.",
+        "opening_hours": "Open 24 hours",
+        "direction": "Located immediately after exiting the Baggage Claim Hall.",
+        "accessibility": "Wide channels, step-free.",
+        "related_facilities": [
+            "Baggage Claim Hall",
+            "Taxi Pickup Zone"
+        ],
+        "emergency_assistance_contact": "Simulated Customs Office - Extension 902",
+        "search_terms": [
+            "customs",
+            "declaration",
+            "red channel",
+            "green channel",
+            "nothing to declare"
+        ]
+    }
+]

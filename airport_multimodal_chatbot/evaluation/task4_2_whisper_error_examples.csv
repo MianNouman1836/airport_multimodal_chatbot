@@ -1,0 +1,6 @@
+query_id,intent,original_text,whisper_transcription,wer,error_observation
+Q017,baggage_claim,Where do I pick up my bags?,Where do I pick up my bag?,0.1428571428571428,minor wording difference
+Q019,check_in,Where is the check in desk for international flights?,Where is the check-in desk for international flight?,0.3333333333333333,minor wording difference
+Q024,check_in,Can you direct me to the check-in area?,Can you direct me to the check in area?,0.25,minor wording difference
+Q044,transport,Is the bus stop outside terminal 1?,is the bus stop outside terminal one.,0.1428571428571428,number/gate missing
+Q050,information_desk,Can you show me to the tourist information center?,Can you show me to the Taurus Information Center?,0.1111111111111111,minor wording difference

@@ -1,0 +1,17 @@
+query_id,intent,modality
+Q001,gate,text
+Q009,gate,text
+Q011,baggage_claim,text
+Q016,baggage_claim,text
+Q026,check_in,text
+Q032,lounge,text
+Q034,lounge,text
+Q040,transport,text
+Q043,transport,text
+Q048,information_desk,text
+Q049,information_desk,text
+Q056,flight_delay,text
+Q062,flight_delay,text
+Q065,security,text
+Q072,security,text
+Q011,baggage_claim,voice

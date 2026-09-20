@@ -1,0 +1,37 @@
+{
+    "speech_model": "Whisper base",
+    "text_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "text_embedding_method": "mean pooling",
+    "embedding_normalization": "L2",
+    "intent_method": "semantic prototype-based intent classification (cosine similarity)",
+    "entity_method": "rule-based regex/dictionary",
+    "retrieval_method": "cosine similarity",
+    "intent_labels": [
+        "gate",
+        "baggage_claim",
+        "check_in",
+        "security",
+        "lounge",
+        "transport",
+        "information_desk",
+        "flight_delay",
+        "restaurant",
+        "lost_and_found",
+        "accessibility",
+        "opening_hours"
+    ],
+    "evaluated_intent_labels": [
+        "gate",
+        "baggage_claim",
+        "check_in",
+        "security",
+        "lounge",
+        "transport",
+        "information_desk",
+        "flight_delay"
+    ],
+    "device": "cuda",
+    "transformers_version": "4.57.1",
+    "pytorch_version": "2.11.0+cu128",
+    "whisper_version": "20250625"
+}

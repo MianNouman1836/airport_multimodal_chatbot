@@ -1,0 +1,22 @@
+{
+    "random_seed": 42,
+    "clip_model": "openai/clip-vit-base-patch32",
+    "whisper_model": "base",
+    "minilm_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "fusion_weights": {
+        "image": 0.55,
+        "text": 0.45
+    },
+    "confidence_thresholds": {
+        "high": 0.75,
+        "moderate": 0.45
+    },
+    "supported_modalities": [
+        "Image",
+        "Voice",
+        "Text",
+        "Image + Text",
+        "Image + Voice"
+    ],
+    "evaluation_date": "2026-09-20 12:23:58"
+}

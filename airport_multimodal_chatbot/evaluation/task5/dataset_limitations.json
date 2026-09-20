@@ -1,0 +1,10 @@
+{
+    "visual_classes_count": 9,
+    "vision_val_samples": 0,
+    "speech_samples": 0,
+    "knowledge_base_records": 20,
+    "synthetic_speech": true,
+    "real_noise_present": false,
+    "real_accents_present": false,
+    "limitation_note": "No reliable real-world accent or noise analysis possible due to synthetic audio dataset."
+}

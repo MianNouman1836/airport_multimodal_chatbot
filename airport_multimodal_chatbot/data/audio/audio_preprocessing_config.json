@@ -1,0 +1,10 @@
+{
+    "target_sample_rate": 16000,
+    "channels": 1,
+    "trimming": "librosa.effects.trim",
+    "trimming_top_db": 20,
+    "whisper_model": "base",
+    "mfcc_enabled": true,
+    "n_mfcc": 13,
+    "random_seed": 42
+}
